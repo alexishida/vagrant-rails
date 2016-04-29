@@ -14,7 +14,7 @@ Installed Items
     Node v6.0.0 (NVM)
     Ruby 2.3.1
     Rails 4.2.6 (RBENV)
-	  Docker (last version)
+    Docker (last version)
 
 
 Install
