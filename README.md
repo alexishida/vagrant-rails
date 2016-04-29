@@ -2,7 +2,7 @@ Vagrant Box
 =============
 
 My rails vagrant box
-
+Generated from https://github.com/alexishida/vagrant
 
 Installed Items
 ---------------------
